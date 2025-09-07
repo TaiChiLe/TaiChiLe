@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey there, welcome!
 
-<!--
-**TaiChiLe/TaiChiLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by my GitHub!
+Here you’ll find a mix of projects I’m building, experimenting with, and learning from.
 
-Here are some ideas to get you started:
+## 🚀 What you’ll see here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Projects where I explore new tech and ideas
+* 💻 Web apps, APIs, and tools I’m tinkering with
+* 📚 Notes, experiments, and code snippets that help me learn
+
+## 🛠️ Tech I like working with
+
+* Frontend: React, Tailwind, TypeScript
+* Backend: C#, Node.js, Supabase, REST & GraphQL
+* Tools: Git, Vite, Figma, and anything modern & fun
+
+## 🤝 Let’s connect
+
+I’m always open to learning, collaborating, or just chatting about code.
