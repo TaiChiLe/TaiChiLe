@@ -20,9 +20,9 @@ Here you’ll find a mix of projects I’m building, experimenting with, and lea
 I’m always open to learning, collaborating, or just chatting about code.
 
 ## 📊 GitHub Stats:
-![Tyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=taichile&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=taichile&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taichile&theme=react-dark)
+![Tyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=taichile&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=taichile&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taichile&theme=dark)
 
 
 
