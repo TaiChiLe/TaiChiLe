@@ -13,7 +13,7 @@ Here you’ll find a mix of projects I’m building, experimenting with, and lea
 
 * Frontend: React, Tailwind, TypeScript
 * Backend: C#, Node.js, Supabase, REST & GraphQL
-* Tools: Git, Vite, Figma, and anything modern & fun
+* Tools: Next.js, Git, Vite, Figma, APIs and anything modern & fun
 
 ## 🤝 Let’s connect
 
