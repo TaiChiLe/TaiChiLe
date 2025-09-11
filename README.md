@@ -4,10 +4,10 @@ Thanks for stopping by my GitHub!
 Here you’ll find a mix of projects I’m building, experimenting with, and learning from.
 
 ## What i'm working on currently
-## What i do and how I work with AI - Prompt Engineering and not "Vibe Coding"
+### What i do and how I work with AI - Prompt Engineering and not "Vibe Coding"
 The goal is for code to be designed well. Less need to be refactored by the mess that vibe coding brings in. I’ve been experimenting with this ALOT (6 months now) and it seems to do it quite well.
 
-## Some key aspects:
+### Some key aspects:
 
 Clarity → Writing prompts that are unambiguous and easy for the model to follow.
 
