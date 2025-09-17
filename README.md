@@ -39,7 +39,7 @@ I’m always open to learning, collaborating, or just chatting about code.
 ![Tyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=taichile&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=taichile&theme=dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taichile&theme=react-dark)
-
+![](https://komarev.com/ghpvc/?username=taichile)
 
 
 
