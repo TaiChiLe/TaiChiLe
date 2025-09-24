@@ -4,6 +4,10 @@ Thanks for stopping by my GitHub!
 Here you’ll find a mix of projects I’m building, experimenting with, and learning from.
 
 ## What i'm working on currently
+
+### Mealomize - [Production Link](https://www.mealomize.com/)
+This is an app that turns photos of raw ingredients into recipes! Pretty straightforward integration with API's. Uses Next.js, Google Cloud Vision, Edamam API and Supabase.
+
 ### What i do and how I work with AI - Prompt Engineering and not "Vibe Coding"
 The goal is for code to be designed well. Less need to be refactored by the mess that vibe coding brings in. I’ve been experimenting with this ALOT (6 months now) and it seems to do it quite well.
 
