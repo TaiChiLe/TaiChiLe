@@ -5,7 +5,7 @@ Here you’ll find a mix of projects I’m building, experimenting with, and lea
 
 ## What I'm working on currently
 
-## AusSettleMate [Production Link](https://chromewebstore.google.com/detail/aussettlemate/ohcnoophijobomimfmnhdcbncloojleh)
+### AusSettleMate - [Production Link](https://chromewebstore.google.com/detail/aussettlemate/ohcnoophijobomimfmnhdcbncloojleh)
 This is a Chrome extension that solves a real-world problem. Approached by a colleague of mine who wanted this idea brought to life - an easy-to-use date calculator for the real estate prop tech industry.
 
 ### Mealomize - [Production Link](https://www.mealomize.com/)
